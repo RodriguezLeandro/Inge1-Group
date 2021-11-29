@@ -35,9 +35,9 @@ testObjects destroySampleServer.
 Dejamos dos usuarios de prueba para poder probar todo el sistema
 
 Usuario con tarjeta de credito valida
-usuario: Luis
-password: 1234
+- usuario: Luis
+- password: 1234
 
 Usuario con tarjeta de credito expirada
-usuario: Seba
-password: 2345
+- usuario: Seba
+- password: 2345
